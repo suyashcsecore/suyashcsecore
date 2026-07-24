@@ -39,6 +39,6 @@ Email Me 👉 **suyashcsecore@gmail.com** For Collaboration/Project or Anything 
 ![](https://github-contributor-stats.vercel.app/api?username=suyashcsecore&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=suyashcsecore&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=suyashcsecore&color=0e75b6)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
