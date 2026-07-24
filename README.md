@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;DSA+in+JAVA;Always+Building+Cool+Projects" />
+</p>
+
 # 💫 Hi 👋, I'm Suyash Mishra
 **KIIT CSE’28 | Fullstack Web Development | Aspiring Software Developer | Passionate about AI and DSA | AWS Academy Graduate | Video Editor @GDG KIIT | Cloud Computing @E Labs | Game Developer**
 
@@ -33,6 +37,14 @@ Email Me 👉 **suyashcsecore@gmail.com** For Collaboration/Project or Anything 
 ![](https://streak-stats.demolab.com?user=suyashcsecore&theme=tokyonight&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashcsecore&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+# 📊 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suyashcsecore&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
 
 ### ✍️ Random Dev Quote
 
