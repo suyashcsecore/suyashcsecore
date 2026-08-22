@@ -3,7 +3,7 @@
 </p>
 
 # 💫 Hi 👋, I'm Suyash Mishra
-**KIIT CSE’28 | Fullstack Web Development | Aspiring Software Developer | Passionate about AI and DSA | AWS Academy Graduate | Video Editor @GDG KIIT | Cloud Computing @E Labs | Game Developer**
+**KIIT CSE’28 | Full-Stack Web Development | Aspiring Software & AI/ML Engineer | DSA in Java | AWS Academy Graduate | Video Editor @GDG KIIT | Cloud Computing @E Labs**
 
 Email Me 👉 **suyashcsecore@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
